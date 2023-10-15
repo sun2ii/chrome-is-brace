@@ -4,7 +4,6 @@
   "version": "1.0",
   "manifest_version": 3,
   "action": {
-    "default_popup": "brave.html",
-    "default_icon": "extension.png"
+    "default_popup": "brave.html"
   }
 }
